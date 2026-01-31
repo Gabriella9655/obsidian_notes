@@ -1,0 +1,16 @@
+# Obsidian临时文件
+.obsidian/cache/
+.obsidian/workspace*
+.obsidian/trash.json
+.obsidian/backup/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*.log
+
+# 特定文件夹（可选）
+.vscode/
