@@ -1,0 +1,23 @@
+{
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Editor@@codeblock-style-select": "codeblock-style-one-dark",
+  "Editor@@img-center-align": true,
+  "Editor@@border-focus-mode": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-monochrome-topaz",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-monokai",
+  "Plugin@@colorful-checkbox": true,
+  "Editor@@inline-title-color-select": "inline-title-color-default",
+  "Editor@@h1-color-select": "h1-color-designated",
+  "Editor@@h1-divider-on": true,
+  "Editor@@h2-divider-on": true,
+  "Editor@@h2-color-select": "h2-color-designated",
+  "Editor@@blockquote-background-light": "#D8E2DC",
+  "Editor@@blockquote-background-dark": "#3b8686",
+  "Editor@@callout-style-select": "callout-style-customize",
+  "Editor@@p-spacing": "1em",
+  "Editor@@p-spacing-br": true,
+  "Components@@colorful-folder": true,
+  "Components@@outline-enhanced": true
+}
