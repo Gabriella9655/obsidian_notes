@@ -19,5 +19,9 @@
   "Editor@@p-spacing": "1em",
   "Editor@@p-spacing-br": true,
   "Components@@colorful-folder": true,
-  "Components@@outline-enhanced": true
+  "Components@@outline-enhanced": true,
+  "maple-basic@@setting-accent-h-light": 105,
+  "maple-basic@@color-active-light": "color-active-default-light",
+  "maple-basic@@app-layout-card-border": false,
+  "maple-workspace@@explorer-folder-bold": true
 }
